@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Debug",
+      "appliesTo": "Q6/obj/Debug/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "Q6/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Q6",
+      "appliesTo": "Q6/Q6.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

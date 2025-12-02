@@ -1,0 +1,29 @@
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\bin\Debug\net10.0\Q6.exe
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\bin\Debug\net10.0\Q6.deps.json
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\bin\Debug\net10.0\Q6.runtimeconfig.json
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\bin\Debug\net10.0\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\bin\Debug\net10.0\Q6.pdb
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.AssemblyInfoInputs.cache
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.AssemblyInfo.cs
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.csproj.CoreCompileInputs.cache
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\refint\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.pdb
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\Q6.genruntimeconfig.cache
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\Ex01\Q2\obj\Debug\net10.0\ref\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\bin\Debug\net10.0\Q6.exe
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\bin\Debug\net10.0\Q6.deps.json
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\bin\Debug\net10.0\Q6.runtimeconfig.json
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\bin\Debug\net10.0\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\bin\Debug\net10.0\Q6.pdb
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.AssemblyInfoInputs.cache
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.AssemblyInfo.cs
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.csproj.CoreCompileInputs.cache
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.sourcelink.json
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\refint\Q6.dll
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.pdb
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\Q6.genruntimeconfig.cache
+C:\Users\נועה\Downloads\לא עבודה\עבודה\לימודים\תכנות מונחה עצמים\תרגיל1\Ex01\Q6\obj\Debug\net10.0\ref\Q6.dll
